@@ -30,7 +30,7 @@ Small, complete projects, each one tested, documented and available in English a
 | Project | What it shows | Stack |
 | --- | --- | --- |
 | **Heremita** · [live demo](https://heremita.vercel.app) _(code private)_ | Mobile-first trip planner: places with notes on a map, day-by-day itinerary, walk/bike/drive routes, reviews and public trips; English, Spanish and Portuguese | Next.js, NestJS, Prisma, PostgreSQL, MapLibre, Playwright |
-| [python-academy](https://github.com/frandigon6alves/python-academy) | Gamified, bilingual academy to learn Python: courses, quizzes, exams, certificates, XP, badges, quests, user hub and settings | Next.js, TypeScript, FastAPI, SQLAlchemy, pytest |
+| [python-academy](https://github.com/frandigon6alves/python-academy) · [live demo](https://python-academy-omega.vercel.app) | Gamified, bilingual academy to learn Python: courses, quizzes, exams, certificates, XP, badges, quests, user hub and settings | Next.js, TypeScript, FastAPI, SQLAlchemy, pytest |
 | [split-the-bill](https://github.com/frandigon6alves/split-the-bill) | Group expense splitter with a minimal-settlements algorithm | React 19, TypeScript, Vite, Vitest |
 | [newsletter-builder](https://github.com/frandigon6alves/newsletter-builder) | Markdown → localized, email-safe HTML newsletters with validation | Node.js, TypeScript, ICU messages |
 | [bookmarks-api](https://github.com/frandigon6alves/bookmarks-api) | REST API with problem+json errors translated per `Accept-Language` | PHP 8.4, Slim, SQLite, PHPUnit, PHPStan |
