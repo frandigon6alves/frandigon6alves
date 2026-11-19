@@ -25,7 +25,7 @@ I treat AI agents as part of my engineering toolchain, not a shortcut around it.
 
 ## 🧪 Side projects
 
-Small, complete projects, each one tested, documented and available in English, Spanish and Portuguese:
+Small, complete projects, each one tested, documented and available in English and Spanish (most also in Portuguese):
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
