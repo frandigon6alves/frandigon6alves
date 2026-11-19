@@ -2,7 +2,15 @@
 
 **Full Stack Engineer in Barcelona** working across the web, mobile and backend: TypeScript, React and Next.js on the frontend; Node.js, PHP and Python on the server; and AI agents to automate the engineering work in between.
 
-At [Danelfin](https://danelfin.com) I drive technical and product initiatives for an AI-powered stock and ETF analytics platform available in 8 languages: from conceptualizing and building Danelfin Academy, to leading the migration to the Next.js App Router and a modular DDD architecture, to shipping iOS and Android features with React Native, Expo and Stripe, and building Stripe subscriptions and backoffice features in PHP / Symfony with Python and Node.js workers.
+Today I build an AI-powered investment analytics platform used in 8 languages, where I own both engineering and product work:
+
+- **Frontend & Next.js:** led the migration to the Next.js App Router and a modular DDD architecture, wrote the team's engineering guidelines, and improved Core Web Vitals (TBT, LCP) with code splitting, edge caching and lighter bundles.
+- **Product ownership:** conceived and launched a free education platform as Product Owner, from discovery to release: vision, roadmap, course catalog, exams and certificates, and gamification (levels, quests, badges, leaderboards).
+- **Mobile:** shipped iOS and Android features with React Native and Expo: market data screens with charts, portfolio management, and in-app payments with Apple Pay, Google Pay and free trials.
+- **Backend & payments:** built Stripe subscriptions (prorated upgrades, trials, multi-currency, paywalls), backoffice features in PHP / Symfony, and Python and Node.js workers for newsletters and data pipelines.
+- **Testing & quality:** unit, integration and end-to-end tests with Jest, Vitest, Testing Library, Playwright, PHPUnit and pytest; error monitoring with Sentry and GlitchTip.
+- **Cloud, security & automation:** AWS (Fargate, S3, CloudFront), Cloudflare edge caching and bot protection, CI/CD pipelines, and AI agents that automate scaffolding, tests, migrations and code reviews.
+- **Internationalization:** products shipped in up to 8 languages; I work in English, Spanish and Portuguese.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciellen--goncalves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciellen-goncalves)
 [![Email](https://img.shields.io/badge/Email-franciellen__gc%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:franciellen_gc@hotmail.com)
