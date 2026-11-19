@@ -29,6 +29,7 @@ Small, complete projects, each one tested, documented and available in English, 
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [python-academy](https://github.com/frandigon6alves/python-academy) | Gamified, bilingual academy to learn Python: courses, quizzes, exams, certificates, XP, badges, quests, user hub and settings | Next.js, TypeScript, FastAPI, SQLAlchemy, pytest |
 | [split-the-bill](https://github.com/frandigon6alves/split-the-bill) | Group expense splitter with a minimal-settlements algorithm | React 19, TypeScript, Vite, Vitest |
 | [newsletter-builder](https://github.com/frandigon6alves/newsletter-builder) | Markdown → localized, email-safe HTML newsletters with validation | Node.js, TypeScript, ICU messages |
 | [bookmarks-api](https://github.com/frandigon6alves/bookmarks-api) | REST API with problem+json errors translated per `Accept-Language` | PHP 8.4, Slim, SQLite, PHPUnit, PHPStan |
