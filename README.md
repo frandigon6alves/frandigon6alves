@@ -1,8 +1,8 @@
 # Hi, I'm Franciellen 👋
 
-**Frontend Engineer in Barcelona** with a cross-functional background spanning web architecture, mobile development and product ownership.
+**Full Stack Engineer in Barcelona** working across the web, mobile and backend: TypeScript, React and Next.js on the frontend; Node.js, PHP and Python on the server; and AI agents to automate the engineering work in between.
 
-At [Danelfin](https://danelfin.com) I drive technical and product initiatives for an AI-powered stock and ETF analytics platform available in 8 languages: from conceptualizing and building Danelfin Academy, to leading the migration to the Next.js App Router and a modular DDD architecture, to shipping iOS and Android features with React Native, Expo and Stripe.
+At [Danelfin](https://danelfin.com) I drive technical and product initiatives for an AI-powered stock and ETF analytics platform available in 8 languages: from conceptualizing and building Danelfin Academy, to leading the migration to the Next.js App Router and a modular DDD architecture, to shipping iOS and Android features with React Native, Expo and Stripe, and building Stripe subscriptions and backoffice features in PHP / Symfony with Python and Node.js workers.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-franciellen--goncalves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciellen-goncalves)
 [![Email](https://img.shields.io/badge/Email-franciellen__gc%40hotmail.com-0078D4?logo=microsoftoutlook&logoColor=white)](mailto:franciellen_gc@hotmail.com)
@@ -13,11 +13,29 @@ At [Danelfin](https://danelfin.com) I drive technical and product initiatives fo
 | Area | Tools |
 | --- | --- |
 | Frontend & Mobile | TypeScript, React, Next.js (App Router), React Native, Expo, TanStack Query, Zustand, Redux, HTML, CSS, Tailwind CSS, Bootstrap, MDX |
-| Backend & Databases | Node.js, PHP / Symfony, SQL (MySQL), Python |
-| Cloud, Payments & DevOps | Stripe (web & in-app payments), AWS (Fargate, S3, CloudFront, Cognito, Snowball), Cloudflare (edge caching, Turnstile), CI/CD, technical SEO, DDD architecture |
-| Testing & Monitoring | Jest, Testing Library, PHPUnit, Sentry, GlitchTip |
+| Backend & Databases | Node.js (TypeScript, NestJS), PHP (Symfony), Python, REST APIs, SQL (MySQL, PostgreSQL), Prisma |
+| AI & Automation | AI coding agents (Claude Code) for spec-driven development, multi-agent workflows, automated PR reviews and custom agent skills; scripted pipelines in Python and Node.js |
+| Cloud, Payments & DevOps | Stripe (web & in-app payments), AWS (Fargate, S3, CloudFront, Cognito, Snowball), Cloudflare (edge caching, Turnstile), Docker, CI/CD, technical SEO, DDD architecture |
+| Testing & Monitoring | Jest, Vitest, Testing Library, Playwright, PHPUnit, pytest, Sentry, GlitchTip |
+| Internationalization | Products shipped in up to 8 languages; I work in English, Spanish and Portuguese |
 
-## 🚀 Highlights
+## 🤖 How I work with AI
+
+I treat AI agents as part of my engineering toolchain, not a shortcut around it. I write a spec first, let agents run the repetitive parts in parallel (scaffolding, tests, migrations, reviews), and keep the decisions, the review and the final call myself. I maintain my own pack of agent skills for frontend, backend (Node.js, PHP, Python), testing and git workflows, so every agent follows the same engineering standards I do.
+
+## 🧪 Side projects
+
+Small, complete projects, each one tested, documented and available in English, Spanish and Portuguese:
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [split-the-bill](https://github.com/frandigon6alves/split-the-bill) | Group expense splitter with a minimal-settlements algorithm | React 19, TypeScript, Vite, Vitest |
+| [newsletter-builder](https://github.com/frandigon6alves/newsletter-builder) | Markdown → localized, email-safe HTML newsletters with validation | Node.js, TypeScript, ICU messages |
+| [bookmarks-api](https://github.com/frandigon6alves/bookmarks-api) | REST API with problem+json errors translated per `Accept-Language` | PHP 8.4, Slim, SQLite, PHPUnit, PHPStan |
+| [expense-insights](https://github.com/frandigon6alves/expense-insights) | CLI that categorizes bank CSVs and reports monthly spending | Python, gettext, Babel, pytest, mypy |
+| **Heremita** _(private, in progress)_ | Mobile-first trip planner: map, itinerary, routes | Next.js, NestJS, Prisma, PostgreSQL, MapLibre |
+
+## 💼 Experience
 
 ### Danelfin · Frontend Web Developer · Feb 2025 – present
 
